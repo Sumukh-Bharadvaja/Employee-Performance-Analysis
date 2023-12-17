@@ -1,0 +1,25 @@
+To below packages should be installed before running the notebook, 
+
+
+1.pandas 
+
+2.numpy
+
+3.random 
+
+4.plotly
+
+5.matplotlib
+
+6.scipy
+
+7.seaborn
+
+8.pylab
+
+9.sklearn
+
+10. warnings
+
+
+
