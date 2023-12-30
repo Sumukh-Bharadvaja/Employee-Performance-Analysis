@@ -178,10 +178,11 @@ Employee work life balance: In EmpWorkLifeBalance, level 3 is showing high Perfo
 ### Goal 3: A Trained model which can predict the employee performance
 The trained model is created using the machine learning algorithm as follows with the accuracy score,
 
-Support Vector Classifier: 98.28% accuracy
-Random Forest classifier: 95.61% accuracy
-Artifical Neural Network [Multilayer percepton]: 96.95%
-Goal 4: Recommendations to improve the employee performance
+- Support Vector Classifier: 98.28% accuracy
+- Random Forest classifier: 95.61% accuracy
+- Artifical Neural Network [Multilayer percepton]: 96.95%
+
+### Goal 4: Recommendations to improve the employee performance
 The overall employee performance can be achieved by employee environment satisfaction. The company needs to focus more on the employee environment satisfaction.
 The salary hike will give the boost to the employees to perform well.
 Promote the employee ervery 6th month
